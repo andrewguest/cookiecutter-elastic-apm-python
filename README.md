@@ -7,7 +7,10 @@ This template is used to show to use the Elastic APM library, for Python in this
 ### To use this template clone it with cookiecutter:
 
 1. Install the `cookiecutter` library if it isn't already installed:
-   `pip3 install cookiecutter`
+
+   - `pip3 install cookiecutter`
+   - Optionally, setup pre-commit hooks:
+     - `pip3 install pre-commit`
 
 2. Use this cookiecutter template: `cookiecutter gh:andrewguest/cookiecutter-elastic-apm-python`
 

@@ -1,4 +1,5 @@
 {
-  "project_name": "",
-  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}"
+  "project_name": "fastapi-elastic",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+  "fastapi_service_name": "fastapi-01"
 }
